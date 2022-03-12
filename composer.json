@@ -11,20 +11,6 @@
             "email": "gallarian@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/gallarian1337/sitemapbundle.git",
-            "package":{
-                "name": "titan/sitemapbundle",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/gallarian1337/sitemapbundle.git",
-                    "reference": "main"
-                }
-            }
-        }
-    ],
     "minimum-stability": "dev",
     "require": {}
 }
